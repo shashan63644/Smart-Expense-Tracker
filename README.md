@@ -1,6 +1,4 @@
-Smart Expense Tracker API   ( Deligent )
-
-
+Smart Expense Tracker API   
 
 About the Project
 
